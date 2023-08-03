@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/AffiliateNetwork-FrontendDemo/static/css/main.6508bef8.css",
-    "main.js": "/AffiliateNetwork-FrontendDemo/static/js/main.4a006208.js",
-    "static/js/787.28cb0dcd.chunk.js": "/AffiliateNetwork-FrontendDemo/static/js/787.28cb0dcd.chunk.js",
+    "main.js": "/AffiliateNetwork-FrontendDemo/static/js/main.fb89d70e.js",
     "static/media/roboto-all-500-normal.woff": "/AffiliateNetwork-FrontendDemo/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/AffiliateNetwork-FrontendDemo/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
     "static/media/roboto-all-400-normal.woff": "/AffiliateNetwork-FrontendDemo/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
@@ -37,11 +36,10 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/AffiliateNetwork-FrontendDemo/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/AffiliateNetwork-FrontendDemo/index.html",
     "main.6508bef8.css.map": "/AffiliateNetwork-FrontendDemo/static/css/main.6508bef8.css.map",
-    "main.4a006208.js.map": "/AffiliateNetwork-FrontendDemo/static/js/main.4a006208.js.map",
-    "787.28cb0dcd.chunk.js.map": "/AffiliateNetwork-FrontendDemo/static/js/787.28cb0dcd.chunk.js.map"
+    "main.fb89d70e.js.map": "/AffiliateNetwork-FrontendDemo/static/js/main.fb89d70e.js.map"
   },
   "entrypoints": [
     "static/css/main.6508bef8.css",
-    "static/js/main.4a006208.js"
+    "static/js/main.fb89d70e.js"
   ]
 }
